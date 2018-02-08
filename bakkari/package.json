@@ -1,0 +1,14 @@
+{
+  "name": "bakkari",
+  "version": "1.0.0",
+  "description": "tämä on ensimmäinen ndejs palvelin harjoitus",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tia Laine",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
